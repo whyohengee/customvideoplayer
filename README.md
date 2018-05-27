@@ -13,8 +13,8 @@ What I'm learning:
 
 Check out:
 
-[My blog post](add link)
+[My blog post](http://yongclee.com/custom-video-player/)
 
 [Codepen](https://codepen.io/whyohengee/pen/RyEeMr?editors=0010)
 
-[Github Pages](add link)
+[Github Pages](https://whyohengee.github.io/customvideoplayer/)
